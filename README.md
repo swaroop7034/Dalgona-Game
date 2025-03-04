@@ -1,2 +1,8 @@
-# Dalgona-Game
-Simple Dalgona Game For Squid Game 
+
+## Built With
+* HTML
+* Canvas
+* CSS
+* JavaScript
+
+Play a Simpile Dalgona Game
